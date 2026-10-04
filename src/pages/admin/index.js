@@ -1,0 +1,9 @@
+export {default as Dashboard} from '../../admin/Dashboard';
+export {default as Categories} from '../../admin/Categories';
+export {default as Orders} from '../../admin/Orders';
+export {default as Customers} from '../../admin/Customers';
+export {default as Inventory} from '../../admin/Inventory';
+export {default as Analytics} from '../../admin/Analytics';
+export {default as Reviews} from '../../admin/Reviews';
+export {default as Products} from './Products';
+export {default as ProductEditor} from './ProductEditor';

@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-04",
+  "project": "bpedttjsbmuvtyqehvnx",
+  "results": [
+    {
+      "pass": true,
+      "test": "Add beyond stock rejected",
+      "error": "Requested quantity exceeds available stock",
+      "sqlstate": "23514"
+    },
+    {
+      "pass": true,
+      "test": "Null quantity rejected",
+      "error": "Quantity must be between 1 and 99",
+      "sqlstate": "22023"
+    },
+    {
+      "pass": true,
+      "test": "Empty cart checkout rejected",
+      "error": "Your bag is empty",
+      "sqlstate": "P0001"
+    },
+    {
+      "pass": true,
+      "test": "Invalid address rejected",
+      "error": "Enter a valid name, street address, city and country",
+      "sqlstate": "22023"
+    },
+    {
+      "pass": true,
+      "test": "Customer shipping override rejected",
+      "error": "Shipping is free; the delivery charge cannot be overridden",
+      "sqlstate": "22023"
+    },
+    {
+      "pass": true,
+      "test": "Null request ID rejected",
+      "error": "Checkout request ID is required",
+      "sqlstate": "22023"
+    },
+    {
+      "pass": true,
+      "test": "Checkout stock revalidated",
+      "error": "Insufficient stock for one or more items",
+      "sqlstate": "23514"
+    },
+    {
+      "pass": true,
+      "test": "Failed checkout preserves cart"
+    },
+    {
+      "pass": true,
+      "test": "Failed checkout creates no order"
+    },
+    {
+      "pass": true,
+      "test": "Idempotent retry returns same order"
+    },
+    {
+      "pass": true,
+      "test": "Retry does not decrement stock twice"
+    },
+    {
+      "pass": true,
+      "test": "Totals cannot be supplied in address"
+    },
+    {
+      "pass": true,
+      "test": "Customer cannot record payment",
+      "error": "Admin access required",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Customer cannot permanently delete product",
+      "error": "Admin access required",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Customer creates ticket and message"
+    },
+    {
+      "pass": true,
+      "test": "Customer cannot set support status",
+      "error": "Admin access required",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Same customer and subject share one conversation"
+    },
+    {
+      "pass": true,
+      "test": "Customer follow-up appends message"
+    },
+    {
+      "pass": true,
+      "test": "Different subject creates a request"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot see ticket"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot see messages"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot mark read",
+      "error": "Support conversation not found",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot send selected reply",
+      "error": "Support conversation not found",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot read request thread",
+      "error": "Support conversation not found or unavailable.",
+      "sqlstate": "P0002"
+    },
+    {
+      "pass": true,
+      "test": "Same subject from another customer stays separate"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot reply",
+      "error": "Ticket not found",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot claim order in ticket",
+      "error": "Order not found",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Other customer cannot retrieve idempotent order",
+      "error": "Your bag is empty",
+      "sqlstate": "P0001"
+    },
+    {
+      "pass": true,
+      "test": "Admin reply appends trusted thread message"
+    },
+    {
+      "pass": true,
+      "test": "Historical product delete is protected",
+      "error": "This product cannot be permanently deleted because it is associated with historical orders. Please archive it instead.",
+      "sqlstate": "23503"
+    },
+    {
+      "pass": true,
+      "test": "Admin inbox includes preview and unread count"
+    },
+    {
+      "pass": true,
+      "test": "Admin mark read clears unread"
+    },
+    {
+      "pass": true,
+      "test": "Backward order transition rejected",
+      "error": "Order status can only move forward",
+      "sqlstate": "P0001"
+    },
+    {
+      "pass": true,
+      "test": "Unpaid refund rejected",
+      "error": "Only a paid order can be marked refunded",
+      "sqlstate": "P0001"
+    },
+    {
+      "pass": true,
+      "test": "Manual payment status persists"
+    },
+    {
+      "pass": true,
+      "test": "Payment note is recorded"
+    },
+    {
+      "pass": true,
+      "test": "Cancellation restores stock"
+    },
+    {
+      "pass": true,
+      "test": "Repeated cancellation does not duplicate stock"
+    },
+    {
+      "pass": true,
+      "test": "Cancellation adds history once"
+    },
+    {
+      "pass": true,
+      "test": "Cancelled order cannot reopen",
+      "error": "This order is already closed",
+      "sqlstate": "P0001"
+    },
+    {
+      "pass": true,
+      "test": "Admin support reply has trusted sender role"
+    },
+    {
+      "pass": true,
+      "test": "Customer follow-up reopens support ticket"
+    },
+    {
+      "pass": true,
+      "test": "Admin reply and customer follow-up share one thread"
+    },
+    {
+      "pass": true,
+      "test": "Customer sees admin unread reply"
+    },
+    {
+      "pass": true,
+      "test": "Customer mark read clears unread"
+    },
+    {
+      "pass": true,
+      "test": "Selected reply stays in same thread"
+    },
+    {
+      "pass": true,
+      "test": "Review receives pending receipt"
+    },
+    {
+      "pass": true,
+      "test": "Duplicate review classified spam"
+    },
+    {
+      "pass": true,
+      "test": "Pending reviews hidden from public"
+    },
+    {
+      "pass": true,
+      "test": "Metadata cannot grant admin"
+    },
+    {
+      "pass": true,
+      "test": "Unverified owner email receives no role"
+    },
+    {
+      "pass": true,
+      "test": "Verified selected owner receives role"
+    },
+    {
+      "pass": true,
+      "test": "Approved ratings count only approved"
+    },
+    {
+      "pass": true,
+      "test": "Spam review deleted by admin"
+    },
+    {
+      "pass": true,
+      "test": "Anonymous checkout permission revoked",
+      "error": "permission denied for function checkout_order",
+      "sqlstate": "42501"
+    },
+    {
+      "pass": true,
+      "test": "Anonymous support permission revoked",
+      "error": "permission denied for function create_support_ticket",
+      "sqlstate": "42501"
+    }
+  ]
+}

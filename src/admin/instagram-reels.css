@@ -1,0 +1,41 @@
+.admin-instagram-reels{max-width:1400px}
+.admin-instagram-reels .admin-page-heading{align-items:flex-end}
+.admin-ig-connection{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:20px;margin:24px 0;padding:24px}
+.admin-ig-connection__identity{display:flex;align-items:center;gap:15px;min-width:0}
+.admin-ig-connection__icon{display:grid;width:46px;height:46px;flex:none;place-items:center;border:1px solid rgba(37,36,31,.16);border-radius:50%;color:#78644e}
+.admin-ig-connection__identity .eyebrow{margin:0 0 5px;color:#8b6b49;font:500 9px/1.4 var(--font-body);letter-spacing:.14em}
+.admin-ig-connection__identity h2,.admin-ig-settings h2,.admin-reel-list__heading h2{margin:0;color:var(--color-charcoal);font:400 24px/1.2 var(--font-display)}
+.admin-ig-connection__identity p:last-child{margin:6px 0 0;color:#81796e;font:400 11px/1.6 var(--font-body)}
+.admin-ig-connection__actions{display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+.admin-ig-connection__actions .button{display:inline-flex;align-items:center;gap:7px}
+.admin-ig-connection__notice{grid-column:1/-1;margin:0;padding:12px 14px;border-left:2px solid #a77c4f;background:rgba(167,124,79,.08);color:#5e5144;font:400 11px/1.6 var(--font-body)}
+.admin-ig-settings{margin:24px 0;padding:24px}
+.admin-ig-settings h2{margin-bottom:18px}
+.admin-ig-settings form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.admin-ig-settings label{display:grid;align-content:start;gap:7px;color:#58534b;font:500 10px/1.4 var(--font-body)}
+.admin-ig-settings input:not([type=checkbox]),.admin-ig-settings select{width:100%;min-height:42px;padding:0 12px;border:1px solid rgba(37,36,31,.18);border-radius:2px;background:#fff;color:var(--color-charcoal);font:400 12px/1.5 var(--font-body)}
+.admin-ig-settings label small{color:#81796e;font:400 10px/1.5 var(--font-body)}
+.admin-ig-settings__toggle{display:flex!important;min-height:42px;align-items:center;gap:9px!important}
+.admin-ig-settings__toggle input{width:16px;height:16px;accent-color:#8b5e3c}
+.admin-ig-settings__actions{grid-column:1/-1;display:flex;justify-content:flex-end}
+.admin-reel-list{margin-top:32px}
+.admin-reel-list__heading{display:flex;align-items:baseline;justify-content:space-between;gap:15px;margin-bottom:14px}
+.admin-reel-list__heading>span{color:#81796e;font:400 10px/1.5 var(--font-body)}
+.admin-reel-list__items{border-top:1px solid rgba(37,36,31,.14)}
+.admin-reel-row{display:grid;grid-template-columns:64px minmax(0,1fr) auto;align-items:center;gap:16px;padding:13px 0;border-bottom:1px solid rgba(37,36,31,.12)}
+.admin-reel-row__thumb{display:grid;width:64px;aspect-ratio:9/16;place-items:center;overflow:hidden;border-radius:4px;background:#e9e4dc;color:#81796e}
+.admin-reel-row__thumb img{width:100%;height:100%;object-fit:contain}
+.admin-reel-row__info{display:grid;gap:4px;min-width:0}
+.admin-reel-row__info strong{font:500 12px/1.4 var(--font-body);color:var(--color-charcoal)}
+.admin-reel-row__info span{display:-webkit-box;overflow:hidden;color:#81796e;font:400 10px/1.5 var(--font-body);overflow-wrap:anywhere;-webkit-box-orient:vertical;-webkit-line-clamp:2}
+.admin-reel-row__link-editor{display:grid;grid-template-columns:repeat(2,minmax(0,1fr)) auto;align-items:end;gap:8px;margin-top:7px}
+.admin-reel-row__link-editor label{display:grid;gap:4px;color:#70695f;font:500 9px/1.4 var(--font-body)}
+.admin-reel-row__link-editor input,.admin-reel-row__link-editor select{width:100%;min-height:34px;padding:0 8px;border:1px solid rgba(37,36,31,.16);border-radius:2px;background:#fff;color:var(--color-charcoal);font:400 10px/1.4 var(--font-body)}
+.admin-reel-row__link-editor .button{min-height:34px;padding:0 10px;white-space:nowrap;font-size:9px}
+.admin-reel-row__actions{display:flex;align-items:center;gap:13px}
+.admin-reel-row__actions a{display:inline-flex;align-items:center;gap:5px;color:#62594f;font:500 10px/1.4 var(--font-body);text-decoration:none}
+.admin-reel-row__actions a:hover{color:#8b6b49}
+.is-spinning{animation:ig-spin 800ms linear infinite}
+@keyframes ig-spin{to{transform:rotate(360deg)}}
+@media(max-width:800px){.admin-ig-connection{grid-template-columns:1fr}.admin-ig-connection__actions{justify-content:flex-start}}
+@media(max-width:700px){.admin-ig-settings{padding:18px}.admin-ig-settings form{grid-template-columns:1fr}.admin-ig-settings__actions{grid-column:auto}.admin-reel-row{grid-template-columns:54px minmax(0,1fr)}.admin-reel-row__thumb{width:54px}.admin-reel-row__actions{grid-column:2}.admin-reel-row__link-editor{grid-template-columns:1fr}.admin-reel-row__link-editor .button{justify-self:start}}

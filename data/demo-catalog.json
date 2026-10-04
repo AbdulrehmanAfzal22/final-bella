@@ -1,0 +1,1906 @@
+{
+  "project_ref": "bpedttjsbmuvtyqehvnx",
+  "demo_only": true,
+  "products": [
+    {
+      "id": "55a9a543-7508-47e7-b4a9-9d2b7b69dc8d",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Petal Glaze Lip Gloss \u00b7 Demo",
+      "price_cents": 1299,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Petal Glaze is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "55a9a543-7508-47e7-b4a9-9d2b7b69dc8d/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "62f178d0-5f9e-4ebe-967a-3336f07e3cbf",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 18,
+          "active": true
+        },
+        {
+          "id": "99a5d736-62d8-420d-a3e7-34d49458f666",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 12,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "b7fb5e70-4c89-45f3-869b-1dc9a9e5bb81",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Rosewater Lip Gloss \u00b7 Demo",
+      "price_cents": 1399,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rosewater is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "b7fb5e70-4c89-45f3-869b-1dc9a9e5bb81/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "7f987d5f-7186-4eb5-b9d2-2768faa33f4c",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 19,
+          "active": true
+        },
+        {
+          "id": "231986eb-4c6d-464d-b78d-d9c51cfdab84",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 13,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "b8950fdf-3a9e-43ce-b5b4-06d897b38178",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Pearl Kiss Lip Gloss \u00b7 Demo",
+      "price_cents": 1499,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pearl Kiss is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "b8950fdf-3a9e-43ce-b5b4-06d897b38178/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "37357132-66e5-4feb-abcf-8af636075642",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 20,
+          "active": true
+        },
+        {
+          "id": "eead9087-6014-4cfd-9e09-71b3cdd421af",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 14,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "afb280da-f19c-42ba-94cf-ae90bd14fde8",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Pink Reverie Lip Gloss \u00b7 Demo",
+      "price_cents": 1599,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pink Reverie is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "afb280da-f19c-42ba-94cf-ae90bd14fde8/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "7cd35153-6ced-41e3-a35a-f9ce46a1872c",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 21,
+          "active": true
+        },
+        {
+          "id": "e445e21d-e4b6-4d7e-bd05-23f839fe3aa8",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 15,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "b1685d48-d028-4ccb-8b11-25f44f91941d",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Sugar Rose Lip Gloss \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Sugar Rose is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "b1685d48-d028-4ccb-8b11-25f44f91941d/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "b902f78e-cba5-4051-b280-ad333aace652",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 22,
+          "active": true
+        },
+        {
+          "id": "a635fbd7-7ed5-449e-98cb-9cabd24e3b92",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 16,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "222edc3e-7997-42c4-beb7-bbc29953e088",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Moonlit Bloom Lip Gloss \u00b7 Demo",
+      "price_cents": 1299,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Moonlit Bloom is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "222edc3e-7997-42c4-beb7-bbc29953e088/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "53eb425f-c023-4d00-b234-5d34ff7a82de",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 23,
+          "active": true
+        },
+        {
+          "id": "e9eff3f2-8c5d-4aaa-9bb9-24f3fb8a5297",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 17,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "be3b43e5-c28b-464f-883e-2b4727066d42",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Blush Muse Lip Gloss \u00b7 Demo",
+      "price_cents": 1399,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Blush Muse is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "be3b43e5-c28b-464f-883e-2b4727066d42/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "a01fd99c-c489-417b-aa59-4a081c80b48c",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 24,
+          "active": true
+        },
+        {
+          "id": "450a03ff-4dcc-4df4-a340-7174befaa890",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 18,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "ce9938d8-d60c-446a-8b2a-6f3a27ac1d3a",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Rosy Ribbon Lip Gloss \u00b7 Demo",
+      "price_cents": 1499,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rosy Ribbon is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "ce9938d8-d60c-446a-8b2a-6f3a27ac1d3a/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "70d1486a-564e-43b3-b8aa-6d0d297034bf",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 25,
+          "active": true
+        },
+        {
+          "id": "2060f4c3-7977-4079-8120-0396f42446bd",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 19,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "3ea0902c-6213-424f-b7df-62c96a3efe60",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Soft Romance Lip Gloss \u00b7 Demo",
+      "price_cents": 1599,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Soft Romance is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "3ea0902c-6213-424f-b7df-62c96a3efe60/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "84531d0c-358b-4452-ac93-ed3ad64c1185",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 26,
+          "active": true
+        },
+        {
+          "id": "8a2ecfce-c417-422a-86cf-5b38721f4293",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 20,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "e8602ab4-df15-4acc-8638-8ed2de343914",
+      "category_slug": "lip-gloss",
+      "asset": "public/assets/demo/lip-gloss.png",
+      "name": "Starlight Lip Gloss \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Starlight is part of the lip gloss preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "e8602ab4-df15-4acc-8638-8ed2de343914/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Gloss \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "1dd9a6d3-2801-48fe-b56e-eec6b876a401",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 27,
+          "active": true
+        },
+        {
+          "id": "24cdd3e7-f11b-4c2b-9204-dd99a5703d54",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 21,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "23aff188-c643-4836-ac54-6e1e8a4a1c21",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Golden Hour Lip Oil \u00b7 Demo",
+      "price_cents": 1499,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Golden Hour is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "23aff188-c643-4836-ac54-6e1e8a4a1c21/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "d7f6be8b-fd12-4591-b220-96a8fb2ac513",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 18,
+          "active": true
+        },
+        {
+          "id": "67db4840-5bfc-4416-b52b-f342a5c5f203",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 12,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "1764b3b8-560c-479f-9355-f1ccb0cf7f16",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Peach Whisper Lip Oil \u00b7 Demo",
+      "price_cents": 1599,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Peach Whisper is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "1764b3b8-560c-479f-9355-f1ccb0cf7f16/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "28e54e9f-a276-427c-820b-27f264f70eff",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 19,
+          "active": true
+        },
+        {
+          "id": "04a1f2f4-e622-4861-9a05-a03f985ecf81",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 13,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "cd946495-e304-4157-a06a-0bef1d320f67",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Honey Glow Lip Oil \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Honey Glow is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "cd946495-e304-4157-a06a-0bef1d320f67/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "fab8f16a-3655-41bb-b594-daf9b8c82bb2",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 20,
+          "active": true
+        },
+        {
+          "id": "cf585b8a-0922-429f-ac27-dda88fcd90d7",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 14,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "175d8d7f-ec4c-490a-8134-484d1e632248",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Amber Dew Lip Oil \u00b7 Demo",
+      "price_cents": 1799,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Amber Dew is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "175d8d7f-ec4c-490a-8134-484d1e632248/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "9c410c02-ae3d-4776-b125-a145e048524f",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 21,
+          "active": true
+        },
+        {
+          "id": "813e9cd6-d4f8-4250-bb75-a64943aecf02",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 15,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "c5eff12b-c56e-4c39-bebd-7712940f4804",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Apricot Dream Lip Oil \u00b7 Demo",
+      "price_cents": 1899,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Apricot Dream is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "c5eff12b-c56e-4c39-bebd-7712940f4804/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "8899d155-b029-4d74-96ed-78fd45c66f17",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 22,
+          "active": true
+        },
+        {
+          "id": "7310ae6d-8f43-494a-8a34-150d65cc6e36",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 16,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "0f6c3409-a5a5-485a-a8a2-0747d72ec931",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Sunlit Petal Lip Oil \u00b7 Demo",
+      "price_cents": 1499,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Sunlit Petal is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "0f6c3409-a5a5-485a-a8a2-0747d72ec931/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "f456cd0c-38be-427d-a12c-7f5fa737f310",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 23,
+          "active": true
+        },
+        {
+          "id": "b7f56a0b-15c5-4e1f-be35-633aa6275249",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 17,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "4c5ac6d5-6def-4229-a5fc-464a4a85c026",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Nectar Kiss Lip Oil \u00b7 Demo",
+      "price_cents": 1599,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Nectar Kiss is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "4c5ac6d5-6def-4229-a5fc-464a4a85c026/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "0d771dd7-31b7-4f76-a891-bb24b69b0925",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 24,
+          "active": true
+        },
+        {
+          "id": "4f579434-0afa-4689-9a1a-2c3f41e26380",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 18,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "c3a97cba-da5b-4890-baa8-0fe744e3b57c",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Silk Glow Lip Oil \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Silk Glow is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "c3a97cba-da5b-4890-baa8-0fe744e3b57c/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "2e7fa335-1f5c-413f-b01a-e03b01d1d51c",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 25,
+          "active": true
+        },
+        {
+          "id": "10eac9d5-8e55-42c3-9f70-283f20fca98e",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 19,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "dc0fed60-8d9a-40b0-95b3-2524b3508664",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Warm Blush Lip Oil \u00b7 Demo",
+      "price_cents": 1799,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Warm Blush is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "dc0fed60-8d9a-40b0-95b3-2524b3508664/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "41bd96cb-1390-4646-88dc-9fda3c781307",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 26,
+          "active": true
+        },
+        {
+          "id": "15a1a48c-266e-448d-a251-6853d092538c",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 20,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "456b8b73-7bd0-4a34-9624-feed72881e24",
+      "category_slug": "lip-oils",
+      "asset": "public/assets/demo/lip-oil.png",
+      "name": "Champagne Dew Lip Oil \u00b7 Demo",
+      "price_cents": 1899,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Champagne Dew is part of the lip oil preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "456b8b73-7bd0-4a34-9624-feed72881e24/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Oil \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "d8303ba2-9958-4e03-952a-65bef95be3f1",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "6 ml",
+          "stock": 27,
+          "active": true
+        },
+        {
+          "id": "036e7cec-0547-48ec-9152-70a0fc6f96ee",
+          "color": "Signature",
+          "color_hex": "#dbac72",
+          "size": "3 ml",
+          "stock": 21,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f09567f0-857c-4646-9820-add5664169eb",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Rosy Cloud Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rosy Cloud is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "f09567f0-857c-4646-9820-add5664169eb/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "a18dd01e-0d50-4e19-bc59-59c3889c1534",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 18,
+          "active": true
+        },
+        {
+          "id": "af5c8913-88fa-4396-bb01-312c649cf420",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 12,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "abc11221-cd33-4ce0-9b99-19ac7a9b6e97",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Berry Bloom Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1799,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Berry Bloom is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "abc11221-cd33-4ce0-9b99-19ac7a9b6e97/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "41c8327f-d8ae-40f0-8b6e-7028d518ca0e",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 19,
+          "active": true
+        },
+        {
+          "id": "b7ddfd18-2372-4cd3-a0a2-13eac1fe8aa5",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 13,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "9f108270-3a0f-47e8-9648-dc51e790845b",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Petal Flush Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1899,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Petal Flush is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "9f108270-3a0f-47e8-9648-dc51e790845b/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "e3571f99-aa46-4953-b7a8-e0e1e68ffead",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 20,
+          "active": true
+        },
+        {
+          "id": "30989fed-1eb5-4fca-850a-717291880eea",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 14,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "9de29d01-96c9-46ed-b354-abd11586bc28",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Cherry Muse Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1999,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Cherry Muse is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "9de29d01-96c9-46ed-b354-abd11586bc28/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "8dc015c9-423e-4cb1-8926-3f354c4ee865",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 21,
+          "active": true
+        },
+        {
+          "id": "e151e0b6-ad71-4c0b-a9bc-5d69df32aa96",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 15,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "8240dd5b-4f53-403c-9012-7013b45a3141",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Ruby Whisper Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 2099,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Ruby Whisper is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "8240dd5b-4f53-403c-9012-7013b45a3141/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "9b5f088c-07a5-435b-a68e-dc0cd73d6a45",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 22,
+          "active": true
+        },
+        {
+          "id": "bd4781c8-c9cc-4661-9553-892dc0aec6a7",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 16,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "3a48a5dd-bab2-4531-a7ea-a0ce280c06f8",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Pink Daydream Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1699,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pink Daydream is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "3a48a5dd-bab2-4531-a7ea-a0ce280c06f8/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "144cc31d-96d5-4b6a-9a30-d3c6db80c70f",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 23,
+          "active": true
+        },
+        {
+          "id": "36b10739-7ea8-4fd8-a120-301a9865ce7e",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 17,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "277a155c-8881-4d06-a251-008eba1dea7f",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Rose Veil Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1799,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rose Veil is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "277a155c-8881-4d06-a251-008eba1dea7f/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "b6370791-6547-41a7-9de1-90058fe55e68",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 24,
+          "active": true
+        },
+        {
+          "id": "5f80c92d-c90c-49ea-bdbe-1633b71d340d",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 18,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "f653c329-0ff2-4d3c-bfab-62082b7a7c3a",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Sweet Blossom Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1899,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Sweet Blossom is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "f653c329-0ff2-4d3c-bfab-62082b7a7c3a/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "f190c1ae-5484-4b4b-b7f6-a72ec0068135",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 25,
+          "active": true
+        },
+        {
+          "id": "e5bebe99-c831-4dd5-b4bf-da56338f1d05",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 19,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "c2a75345-43d2-4a59-a1df-c0ef84db04c4",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Velvet Blush Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 1999,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Velvet Blush is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "c2a75345-43d2-4a59-a1df-c0ef84db04c4/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "a6978a34-d0da-431c-b0f3-d97c38da6329",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 26,
+          "active": true
+        },
+        {
+          "id": "ea2ee934-1f04-4a89-8277-24b438660242",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 20,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "9e4409c5-0c9a-4e32-8d5b-44802c4c61ad",
+      "category_slug": "lip-cheek-tints",
+      "asset": "public/assets/demo/lip-tint.png",
+      "name": "Bloom Crush Lip & Cheek Tint \u00b7 Demo",
+      "price_cents": 2099,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Bloom Crush is part of the lip & cheek tint preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "9e4409c5-0c9a-4e32-8d5b-44802c4c61ad/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip & Cheek Tint \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "6fae370b-cc97-4bb2-b117-8834147b05cf",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 ml",
+          "stock": 27,
+          "active": true
+        },
+        {
+          "id": "d04b7534-43ac-49c4-9474-a1a5be57a54d",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "3 ml",
+          "stock": 21,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "d619563a-e30d-4781-a12a-833cbd01f34e",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Peach Cloud Lip Balm \u00b7 Demo",
+      "price_cents": 999,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Peach Cloud is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "d619563a-e30d-4781-a12a-833cbd01f34e/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "6fc6dc1e-6dd4-4ab7-8d81-f391da12c851",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 18,
+          "active": true
+        },
+        {
+          "id": "e33401f1-0507-4a0a-9e2d-9e908ceb7610",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 12,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "7d7bc990-5f1b-4a6c-8458-86ad51638fb6",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Rose Pillow Lip Balm \u00b7 Demo",
+      "price_cents": 1099,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rose Pillow is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "7d7bc990-5f1b-4a6c-8458-86ad51638fb6/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "b6fd7d85-f027-490c-8393-1466291e6175",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 19,
+          "active": true
+        },
+        {
+          "id": "6ccd4f2e-23ac-40ec-a281-e7ce73911cc4",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 13,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "3ab180d6-9843-4131-867a-e0c9462bf118",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Pink Comfort Lip Balm \u00b7 Demo",
+      "price_cents": 1199,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pink Comfort is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "3ab180d6-9843-4131-867a-e0c9462bf118/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "0a8e815f-bea3-4567-b9fe-f722d0d02a76",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 20,
+          "active": true
+        },
+        {
+          "id": "c5e9c500-7876-48e8-8380-6e6c647593b1",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 14,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "160037d3-efa2-47d1-ba3b-d6e3d80ec655",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Soft Petal Lip Balm \u00b7 Demo",
+      "price_cents": 1299,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Soft Petal is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "160037d3-efa2-47d1-ba3b-d6e3d80ec655/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "ec99030e-a377-4b22-9bdb-667fb450a7e1",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 21,
+          "active": true
+        },
+        {
+          "id": "bc905f3b-6792-4e54-9033-c3f1f2bd46c2",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 15,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "6a408a32-3ad3-4a03-a96c-1a8e7f9a3c54",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Blush Cocoon Lip Balm \u00b7 Demo",
+      "price_cents": 1399,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Blush Cocoon is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "6a408a32-3ad3-4a03-a96c-1a8e7f9a3c54/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "477337d3-ed6d-409b-a129-15f11863d498",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 22,
+          "active": true
+        },
+        {
+          "id": "9253777d-9e4c-4076-b062-b8befe887c1f",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 16,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "aedf7de5-e6b7-4368-99ce-c60e239ab62b",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Sweet Daydream Lip Balm \u00b7 Demo",
+      "price_cents": 999,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Sweet Daydream is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "aedf7de5-e6b7-4368-99ce-c60e239ab62b/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "7d930670-25ec-410b-a5e0-a130becbe44d",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 23,
+          "active": true
+        },
+        {
+          "id": "b0cdaf32-d9ed-4c3b-856f-16b4ce16636e",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 17,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "bccd272d-788e-4f62-8bef-ed3bf5f90d23",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Pearl Bloom Lip Balm \u00b7 Demo",
+      "price_cents": 1099,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pearl Bloom is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "bccd272d-788e-4f62-8bef-ed3bf5f90d23/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "09ed1602-8e45-4c82-9f4a-18df7c687d5b",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 24,
+          "active": true
+        },
+        {
+          "id": "721ea687-777b-4e73-915e-d6cbd7d86ae2",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 18,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "69325951-6357-454b-89f6-7eb57fc84b30",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Cozy Rose Lip Balm \u00b7 Demo",
+      "price_cents": 1199,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Cozy Rose is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "69325951-6357-454b-89f6-7eb57fc84b30/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "fbdeeb48-b9fe-4ff3-87a4-b44715236f49",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 25,
+          "active": true
+        },
+        {
+          "id": "9c729f09-beb5-405b-93f8-e8ffbc7005cc",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 19,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "b40e393a-c240-434a-8896-2f3a1c11dbb7",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Cloud Kiss Lip Balm \u00b7 Demo",
+      "price_cents": 1299,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Cloud Kiss is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "b40e393a-c240-434a-8896-2f3a1c11dbb7/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "8777da05-5f88-491e-811f-00bbd2cc6da9",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 26,
+          "active": true
+        },
+        {
+          "id": "53c6f3fd-33d9-4324-b052-47da844bfa84",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 20,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "d6ca599e-a15a-417e-8aa8-e925b6a227ee",
+      "category_slug": "lip-balms",
+      "asset": "public/assets/demo/lip-balm.png",
+      "name": "Tender Glow Lip Balm \u00b7 Demo",
+      "price_cents": 1399,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Tender Glow is part of the lip balm preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "d6ca599e-a15a-417e-8aa8-e925b6a227ee/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Lip Balm \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "d3d93281-561f-4763-8e5e-54617b4ca9fe",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "10 g",
+          "stock": 27,
+          "active": true
+        },
+        {
+          "id": "d4d7c810-2170-4064-868e-a8f4a035e808",
+          "color": "Signature",
+          "color_hex": "#d18d9e",
+          "size": "5 g",
+          "stock": 21,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "727ea3b7-a5ac-4973-b3cf-cdf16200b27d",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Rose Gold Edit Beauty Set \u00b7 Demo",
+      "price_cents": 2199,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Rose Gold Edit is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "727ea3b7-a5ac-4973-b3cf-cdf16200b27d/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "f3e212e8-5034-4a1a-99a7-854d16a468f6",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 18,
+          "active": true
+        },
+        {
+          "id": "5a5074e9-81b4-4c9b-b703-5e0164df966e",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 12,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "2bc70739-81f2-4b43-8d52-5c57da2eec4d",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Pearl Vanity Beauty Set \u00b7 Demo",
+      "price_cents": 2299,
+      "status": "published",
+      "featured": true,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pearl Vanity is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "2bc70739-81f2-4b43-8d52-5c57da2eec4d/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "64fa5355-b84b-401f-924d-7c315beb5c4f",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 19,
+          "active": true
+        },
+        {
+          "id": "c1e15626-2eec-4c42-b0aa-907af7ff4c68",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 13,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "704c0853-86bf-4f2b-971b-f151b84a5a85",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Blush Studio Beauty Set \u00b7 Demo",
+      "price_cents": 2399,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Blush Studio is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "704c0853-86bf-4f2b-971b-f151b84a5a85/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "bfc8329b-41ad-486e-9161-3d997c312c73",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 20,
+          "active": true
+        },
+        {
+          "id": "7e79e4e4-ce5d-4594-9dca-acca99811338",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 14,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "841b0d2e-3cae-4536-bf11-ecdfd0aa9b6d",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Everyday Edit Beauty Set \u00b7 Demo",
+      "price_cents": 2499,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Everyday Edit is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "841b0d2e-3cae-4536-bf11-ecdfd0aa9b6d/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "1f8ac67c-de6c-469d-a8c6-cdefc07691d6",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 21,
+          "active": true
+        },
+        {
+          "id": "09f06319-bab2-458a-93b4-81ef3c71d41c",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 15,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "58ffb158-9c9f-4553-9c45-91eb70d80082",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Petal Pouch Beauty Set \u00b7 Demo",
+      "price_cents": 2599,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Petal Pouch is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "58ffb158-9c9f-4553-9c45-91eb70d80082/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "145fe2f6-acd2-4ac4-9a34-558e02af52c7",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 22,
+          "active": true
+        },
+        {
+          "id": "aac87c8a-902a-419f-b0e8-e3b8b5300735",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 16,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "96e71e1c-c78a-40f9-8196-c98b6692a795",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Little Luxuries Beauty Set \u00b7 Demo",
+      "price_cents": 2199,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Little Luxuries is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "96e71e1c-c78a-40f9-8196-c98b6692a795/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "ccfc74c6-d6bb-4142-8862-5a4ea95d3f7c",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 23,
+          "active": true
+        },
+        {
+          "id": "3c5a5350-c7f0-4169-b088-8a37eaf665ff",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 17,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "a28e0955-e2fb-411c-877e-125571f937a0",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Beauty Ritual Beauty Set \u00b7 Demo",
+      "price_cents": 2299,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Beauty Ritual is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "a28e0955-e2fb-411c-877e-125571f937a0/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "246cb68f-46aa-428d-a1ef-813648a0e0c0",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 24,
+          "active": true
+        },
+        {
+          "id": "f7623c2e-fcdc-43ee-a835-befec2b2293c",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 18,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "a6890b6e-6c5b-4788-b478-54081e2ea7ac",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Soft Glam Beauty Set \u00b7 Demo",
+      "price_cents": 2399,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Soft Glam is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "a6890b6e-6c5b-4788-b478-54081e2ea7ac/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "4c31bf60-f724-47e3-b41d-6ae904f8f2ad",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 25,
+          "active": true
+        },
+        {
+          "id": "b8658507-8ccb-41fa-8ec3-49b2dee1617c",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 19,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "72b2bd46-a347-449a-a84a-817fd397793f",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Golden Touch Beauty Set \u00b7 Demo",
+      "price_cents": 2499,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Golden Touch is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "72b2bd46-a347-449a-a84a-817fd397793f/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "72cbc7f1-2e92-433d-bc25-8bc5861ae30b",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 26,
+          "active": true
+        },
+        {
+          "id": "b7fecb32-bd0f-4aeb-8195-e01cee90b5e6",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 20,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "0b851823-1d3e-485b-b2d6-228e82b70e32",
+      "category_slug": "beauty-essentials",
+      "asset": "public/assets/demo/beauty-essentials.png",
+      "name": "Pink Essentials Beauty Set \u00b7 Demo",
+      "price_cents": 2599,
+      "status": "published",
+      "featured": false,
+      "department": "unisex",
+      "description": "DEMO PRODUCT \u2014 sample catalog content, illustrative imagery, sample price and sample inventory. Pink Essentials is part of the beauty set preview edit. Use this entry to explore product details, variants, wishlist and the bag. Replace it with your real Bella product before taking customer orders.",
+      "care": "Demo information only. Actual ingredients, directions and care information must be supplied for real products.",
+      "images": [
+        {
+          "path": "0b851823-1d3e-485b-b2d6-228e82b70e32/demo-catalog.png",
+          "position": 0,
+          "color": null,
+          "alt": "Beauty Set \u2014 AI-generated demo packaging, not real inventory"
+        }
+      ],
+      "variants": [
+        {
+          "id": "ff3c59c4-bcde-4668-9c32-fef15818f1c4",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Full set",
+          "stock": 27,
+          "active": true
+        },
+        {
+          "id": "ad88c70a-bf15-4088-904c-dd9d9a9ada72",
+          "color": "Rose Gold",
+          "color_hex": "#d18d9e",
+          "size": "Travel set",
+          "stock": 21,
+          "active": true
+        }
+      ]
+    }
+  ]
+}

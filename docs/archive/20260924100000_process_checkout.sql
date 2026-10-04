@@ -1,0 +1,23 @@
+-- Maison Élan Phase 6B
+-- Secure checkout transaction foundation
+--
+-- Production checkout should execute this logic server-side:
+-- 1. Validate authenticated customer
+-- 2. Read cart items
+-- 3. Verify variant stock
+-- 4. Calculate server-side totals
+-- 5. Create order
+-- 6. Create order items
+-- 7. Reduce inventory
+-- 8. Clear cart
+--
+-- Apply only after reviewing existing schema and policies.
+
+-- CREATE OR REPLACE FUNCTION process_checkout(payload jsonb)
+-- RETURNS jsonb
+-- SECURITY DEFINER
+-- AS $$
+-- BEGIN
+--   -- atomic transaction logic here
+-- END;
+-- $$ LANGUAGE plpgsql;

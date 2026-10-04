@@ -1,0 +1,39 @@
+.accessories-collections{padding:clamp(48px,5.4vw,76px) 0;background:#faf3f5}
+.accessories-collections>.me-container{width:min(calc(100% - 2 * var(--gutter)),1500px)}
+.accessories-collections__heading{align-items:center;margin-bottom:18px}
+.accessories-collections__heading .eyebrow{color:var(--accent);font-size:10px}
+.accessories-collections__heading h2{color:var(--text-primary);font-size:clamp(36px,4vw,50px);line-height:1.1}
+.accessories-collections__heading .luxury-text-link{color:var(--text-secondary)}
+.accessories-collections__heading .luxury-text-link:hover{color:var(--accent)}
+.accessories-collections__controls{margin-bottom:14px;color:var(--text-muted);font-size:9px}
+.accessories-collections__controls>span::before{background:var(--border-hover)}
+.accessories-masonry__card.is-feature{display:grid;grid-column:1/-1;grid-row:auto;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);height:clamp(420px,34vw,500px);min-height:420px;border:1px solid rgba(130,75,90,.1);border-radius:16px;background:var(--surface);box-shadow:0 18px 50px rgba(88,50,60,.08);transform:none}
+.accessories-masonry__card.is-feature:hover,.accessories-masonry__card.is-feature:focus-visible{transform:none;box-shadow:0 20px 54px rgba(88,50,60,.12)}
+.accessories-masonry__card.is-feature .accessories-masonry__media{grid-column:1;grid-row:1;background:#f3e9e8}
+.accessories-masonry__card.is-feature .accessories-masonry__media img{object-fit:cover;object-position:center;transition:transform 650ms cubic-bezier(.2,.65,.25,1)}
+.accessories-masonry__card.is-feature:hover .accessories-masonry__media img,.accessories-masonry__card.is-feature:focus-visible .accessories-masonry__media img{transform:scale(1.02)}
+.accessories-masonry__card.is-feature .accessories-masonry__content{grid-column:2;grid-row:1;align-items:flex-start;flex-direction:column;justify-content:center;gap:17px;padding:clamp(30px,5vw,76px);border:0;background:#fff9f8;text-align:left}
+.accessories-masonry__card.is-feature .accessories-masonry__feature-kicker{color:var(--accent);font:500 10px/1.5 var(--font-body);letter-spacing:.18em;text-transform:uppercase}
+.accessories-masonry__card.is-feature .accessories-masonry__eyebrow{color:var(--text-primary);font:400 clamp(38px,4vw,52px)/1.1 var(--font-display);letter-spacing:0;text-align:left;text-transform:none}
+.accessories-masonry__card.is-feature .accessories-masonry__description{max-width:390px;color:var(--text-secondary);font:400 15px/1.7 var(--font-body)}
+.accessories-masonry__card.is-feature .accessories-masonry__cta{position:relative;inset:auto;display:inline-flex;align-items:center;gap:9px;margin-top:4px;padding:0 0 7px;border-bottom:1px solid var(--accent);color:var(--accent);font:500 10px/1.5 var(--font-body);letter-spacing:.14em;text-transform:uppercase;opacity:1;transform:none;transition:color 220ms ease,border-color 220ms ease}
+.accessories-masonry__card.is-feature .accessories-masonry__cta svg{transition:transform 220ms ease}
+.accessories-masonry__card.is-feature:hover .accessories-masonry__cta svg,.accessories-masonry__card.is-feature:focus-visible .accessories-masonry__cta svg{transform:translateX(3px)}
+@media(max-width:767px){
+  .accessories-collections{padding:48px 0 58px}
+  .accessories-collections>.me-container{width:100%}
+  .accessories-collections__heading{align-items:flex-start;gap:12px;margin-bottom:18px}
+  .accessories-collections__heading h2{font-size:36px}
+  .accessories-masonry__card.is-feature{grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto;height:auto;min-height:0}
+  .accessories-masonry__card.is-feature .accessories-masonry__media{grid-column:1;grid-row:1;display:block;aspect-ratio:4/5;min-height:0}
+  .accessories-masonry__card.is-feature .accessories-masonry__media img{width:100%;height:100%;object-fit:cover}
+  .accessories-masonry__card.is-feature .accessories-masonry__content{grid-column:1;grid-row:2;gap:13px;padding:26px 24px 28px}
+  .accessories-masonry__card.is-feature .accessories-masonry__eyebrow{font-size:36px}
+  .accessories-masonry__card.is-feature .accessories-masonry__description{font-size:14px}
+}
+@media(max-width:520px){
+  .accessories-masonry__card.is-feature{grid-column:1;grid-row:auto}
+  .accessories-masonry__card.is-feature .accessories-masonry__content{padding:24px}
+  .accessories-masonry__card.is-feature .accessories-masonry__eyebrow{font-size:34px}
+}
+@media(prefers-reduced-motion:reduce){.accessories-masonry__card.is-feature,.accessories-masonry__card.is-feature .accessories-masonry__media img,.accessories-masonry__card.is-feature .accessories-masonry__cta svg{transition:none}}

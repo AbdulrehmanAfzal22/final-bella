@@ -1,0 +1,12 @@
+export {default as Home} from '../Home';
+export {default as Shop} from '../Shop';
+export {default as CategoryProducts} from '../CategoryProducts';
+export {default as Product} from '../Product';
+export {default as Collections} from '../Collections';
+export {default as About} from '../About';
+export {default as Cart} from '../Cart';
+export {default as Checkout} from '../Checkout';
+export {default as OrderConfirmation} from '../OrderConfirmation';
+export {default as Orders} from '../Orders';
+export {default as Wishlist} from '../Wishlist';
+export {default as Account} from '../Account';

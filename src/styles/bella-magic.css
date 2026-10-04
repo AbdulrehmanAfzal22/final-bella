@@ -1,0 +1,61 @@
+.fairy-scroll-magic{position:fixed;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none;contain:strict}
+.fairy-magic-toggle{position:fixed;bottom:24px;left:20px;z-index:70;display:inline-flex;align-items:center;gap:7px;min-height:38px;padding:8px 12px;border:1px solid #e9ccd9;border-radius:30px;background:#fffafcef;color:#9c5573;box-shadow:0 4px 20px #9c55730d;backdrop-filter:blur(10px);font-size:10px;letter-spacing:.045em;transition:background .2s ease,box-shadow .2s ease}
+.fairy-magic-toggle:hover{background:#f8e7ef;box-shadow:0 5px 20px #9c557320}
+.fairy-magic-toggle[aria-pressed="false"]{color:#927d86;background:#fffafcc9}
+.home-hero .luxury-outline-button{position:relative;overflow:hidden;isolation:isolate}
+.home-hero .luxury-outline-button:after{position:absolute;z-index:-1;inset:-60% auto -60% -55%;width:35%;background:linear-gradient(90deg,transparent,#ffffff35,transparent);transform:rotate(24deg);content:"";transition:left .7s ease}
+@media(hover:hover){.home-hero .luxury-outline-button:hover:after{left:125%}.luxury-product-card__visual,.product-photo{transition:box-shadow .45s ease}.luxury-product-card:hover .luxury-product-card__visual,.product-card:hover .product-photo{box-shadow:0 12px 32px #9c55731a}.luxury-product-card__image,.product-photo img{transition:transform .65s cubic-bezier(.2,.7,.2,1)}.luxury-product-card:hover .luxury-product-card__image,.product-card:hover .product-photo img{transform:scale(1.035)}}
+.reveal{transition-duration:.85s;transform:translateY(24px)}
+.reveal.is-visible{transform:translateY(0)}
+@media(max-width:700px){.fairy-magic-toggle{bottom:20px;left:14px;min-height:36px;padding-inline:10px;font-size:9px}}
+@media(prefers-reduced-motion:reduce){.fairy-scroll-magic,.fairy-magic-toggle{display:none}.reveal,.reveal.is-visible{opacity:1;transform:none;transition:none}.luxury-product-card__image,.product-photo img{transition:none}.home-hero .luxury-outline-button:after{display:none}}
+
+/* Bella's beauty atmosphere: a few airy ornaments, never a full-screen veil. */
+.beauty-atmosphere{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0;contain:paint}
+.home-hero .luxury-hero__content{z-index:1}
+.beauty-atmosphere__charm{position:absolute;display:block;width:24px;height:24px;color:#c987a6;opacity:0;animation:beauty-float 7s ease-in-out 3 both}
+.beauty-atmosphere__charm svg{width:100%;height:100%;stroke-width:1.1;fill:#f1d0df66;filter:drop-shadow(0 2px 5px #d99ab733)}
+.beauty-atmosphere__charm--0{left:52%;top:16%;width:21px;animation-delay:.4s}
+.beauty-atmosphere__charm--1{right:9%;top:21%;width:31px;height:31px;color:#c69a59;animation-delay:1.3s}
+.beauty-atmosphere__charm--2{right:26%;top:9%;width:37px;height:37px;animation-delay:2s}
+.beauty-atmosphere__charm--3{right:5%;bottom:19%;width:17px;height:17px;animation-delay:1s}
+.beauty-atmosphere__charm--4{left:47%;bottom:18%;color:#c69a59;animation-delay:2.5s}
+.beauty-atmosphere__charm--5{right:35%;bottom:12%;width:29px;height:29px;animation-delay:1.8s}
+.beauty-atmosphere__charm--2 svg,.beauty-atmosphere__charm--5 svg{stroke:#cd9bb1;fill:#e9bad066}
+.beauty-atmosphere__body{fill:none;stroke:#ae728f;stroke-linecap:round}
+.beauty-atmosphere__pearl{position:absolute;width:12px;height:12px;border-radius:50%;background:radial-gradient(circle at 32% 25%,#fff 0%,#fff6fb 30%,#edcadb 74%,#d19bb5);box-shadow:0 3px 10px #a5446b12;animation:beauty-pearl 9s ease-in-out 2 both}
+.beauty-atmosphere__pearl--one{right:17%;top:12%}
+.beauty-atmosphere__pearl--two{right:42%;bottom:26%;width:8px;height:8px;animation-delay:1s}
+.beauty-atmosphere[data-active="false"] *{animation-play-state:paused}
+@keyframes beauty-float{0%{opacity:0;transform:translate3d(0,12px,0) rotate(-8deg) scale(.85)}20%,75%{opacity:.65}50%{transform:translate3d(9px,-14px,0) rotate(9deg) scale(1)}100%{opacity:0;transform:translate3d(-5px,-30px,0) rotate(-6deg) scale(.9)}}
+@keyframes beauty-pearl{0%,100%{opacity:0;transform:translateY(8px)}25%,75%{opacity:.7}50%{transform:translateY(-12px)}}
+.home-hero .luxury-hero__scroll svg{animation:beauty-discover 2s ease-in-out 4}
+@keyframes beauty-discover{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+.reveal{transition-timing-function:cubic-bezier(.16,1,.3,1)}
+.luxury-product-card__visual,.product-photo,.new-arrivals__card-shell,.collection-puzzle__card{position:relative;isolation:isolate}
+.luxury-product-card__visual:after,.product-photo:after,.new-arrivals__card-shell:after{content:"";position:absolute;inset:0;pointer-events:none;z-index:1;border-radius:inherit;background:linear-gradient(115deg,transparent 20%,#fff8fc80 45%,#ffffffb0 50%,transparent 75%);transform:translateX(-125%);opacity:0}
+@media(hover:hover){
+  .luxury-product-card__visual,.product-photo,.new-arrivals__card-shell{transition:transform .6s cubic-bezier(.16,1,.3,1),box-shadow .6s ease}
+  .luxury-product-card:hover .luxury-product-card__visual,.product-card:hover .product-photo,.new-arrivals__card:hover .new-arrivals__card-shell{transform:translateY(-5px);box-shadow:0 18px 38px #a5446b1a}
+  .luxury-product-card:hover .luxury-product-card__visual:after,.product-card:hover .product-photo:after,.new-arrivals__card:hover .new-arrivals__card-shell:after{animation:beauty-gloss .95s ease both}
+  .collection-puzzle__card:hover .collection-puzzle__explore svg,.accessories-masonry__card:hover .accessories-masonry__cta svg{transform:translate(3px,-3px)}
+  .luxury-product-card__actions button:hover svg,.new-arrivals__actions button:hover svg{animation:beauty-heart .6s ease both}
+  .home-journal__image:hover{box-shadow:0 15px 36px #a5446b17}
+}
+.collection-puzzle__explore svg,.accessories-masonry__cta svg{transition:transform .4s cubic-bezier(.16,1,.3,1)}
+.luxury-product-card__swatches span,.color-dots i{transition:transform .25s ease,box-shadow .25s ease}
+.luxury-product-card__swatches span:hover,.color-dots i:hover{transform:scale(1.25);box-shadow:0 0 0 3px #efd0df70}
+.fairy-magic-toggle:focus-visible{outline:2px solid #a5446b;outline-offset:4px}
+@keyframes beauty-gloss{0%{opacity:0;transform:translateX(-125%)}20%,65%{opacity:.55}100%{opacity:0;transform:translateX(125%)}}
+@keyframes beauty-heart{0%,100%{transform:scale(1)}35%{transform:scale(1.23) rotate(-8deg)}70%{transform:scale(.96)}}
+@media(max-width:700px){.beauty-atmosphere__charm--0,.beauty-atmosphere__charm--4,.beauty-atmosphere__pearl--two{display:none}.beauty-atmosphere__charm--1{top:55%;right:8%;width:22px;height:22px}.beauty-atmosphere__charm--2{top:68%;right:78%;width:27px;height:27px}.beauty-atmosphere__charm--3{bottom:8%;right:7%}.beauty-atmosphere__charm--5{bottom:6%;right:67%;width:24px;height:24px}.beauty-atmosphere__pearl--one{top:60%;right:42%}}
+/* One control stops the new decorative layers; reduced motion takes precedence. */
+html[data-bella-magic="off"] .beauty-atmosphere{display:none}
+html[data-bella-magic="off"] :is(.luxury-hero__scroll svg,.luxury-product-card__visual:after,.product-photo:after,.new-arrivals__card-shell:after,.luxury-product-card__actions button svg,.new-arrivals__actions button svg){animation:none}
+html[data-bella-magic="off"] :is(.luxury-product-card__visual,.product-photo,.new-arrivals__card-shell){transform:none}
+@media(prefers-reduced-motion:reduce){
+  .beauty-atmosphere{display:none}
+  .luxury-hero__scroll svg,.luxury-product-card__visual:after,.product-photo:after,.new-arrivals__card-shell:after,.luxury-product-card__actions button svg,.new-arrivals__actions button svg{animation:none}
+  .luxury-product-card__visual,.product-photo,.new-arrivals__card-shell,.collection-puzzle__explore svg,.accessories-masonry__cta svg,.luxury-product-card__swatches span,.color-dots i{transition:none;transform:none!important}
+}
+html[data-bella-magic="off"] :is(.collection-puzzle__explore svg,.accessories-masonry__cta svg,.luxury-product-card__swatches span,.color-dots i){transform:none;transition:none}

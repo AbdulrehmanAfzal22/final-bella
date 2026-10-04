@@ -1,0 +1,8 @@
+.floating-support-button{position:fixed;right:max(22px,env(safe-area-inset-right));bottom:max(22px,env(safe-area-inset-bottom));z-index:35;display:flex;min-height:52px;align-items:center;justify-content:center;gap:10px;padding:0 19px;border:1px solid rgba(255,255,255,.2);border-radius:999px;background:#1D1B18;color:#F8F5EF;box-shadow:0 9px 26px rgba(29,27,24,.2);font:500 10px/1 var(--font-body);letter-spacing:.1em;white-space:nowrap;transition:transform 260ms cubic-bezier(.2,.7,.2,1),background 260ms ease,box-shadow 260ms ease;animation:floating-support-arrive 420ms ease both}
+.floating-support-button svg{transition:transform 260ms cubic-bezier(.2,.7,.2,1)}
+.floating-support-button:hover{transform:translateY(-4px);background:#373128;box-shadow:0 14px 30px rgba(29,27,24,.25)}
+.floating-support-button:hover svg{transform:scale(1.08)}
+.floating-support-button:focus-visible{outline:2px solid #B89B72;outline-offset:4px}
+@keyframes floating-support-arrive{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:480px){.floating-support-button{right:max(14px,env(safe-area-inset-right));bottom:max(14px,env(safe-area-inset-bottom));min-height:48px;padding-inline:15px;font-size:9px}}
+@media(prefers-reduced-motion:reduce){.floating-support-button{animation:none;transition:none}}

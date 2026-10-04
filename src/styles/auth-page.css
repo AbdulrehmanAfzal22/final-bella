@@ -1,0 +1,57 @@
+.auth-page.auth-page--premium{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);min-height:clamp(560px,calc(100svh - 128px),860px);background:#f8f6f1;overflow:hidden}
+.auth-page--premium .auth-art{position:relative;isolation:isolate;display:flex;min-width:0;min-height:560px;flex-direction:column;justify-content:flex-end;overflow:hidden;padding:clamp(34px,6vw,88px);background:#5c5147;color:#fff}
+.auth-page--premium .auth-art:before{position:absolute;z-index:-2;inset:-2%;background:url('/assets/bella-beauty-editorial.png') center 46%/cover;content:"";animation:auth-image-reveal 900ms cubic-bezier(.2,.7,.2,1) both,auth-image-drift 26s ease-in-out 900ms infinite alternate;will-change:transform}
+.auth-page--premium .auth-art:after{position:absolute;z-index:-1;inset:0;background:linear-gradient(0deg,rgba(20,18,16,.48),rgba(20,18,16,.04) 68%),linear-gradient(90deg,rgba(20,18,16,.17),transparent 80%);content:""}
+.auth-page--premium .auth-art__label{margin:0 0 18px;color:rgba(255,255,255,.87);font:500 9px/1.5 var(--font-body);letter-spacing:.2em;text-transform:uppercase;animation:auth-fade-up 600ms cubic-bezier(.2,.7,.2,1) 120ms both}
+.auth-page--premium .auth-art__title{max-width:590px;margin:0;color:#fff;font:400 clamp(54px,7vw,96px)/.94 var(--font-display);letter-spacing:0;animation:auth-fade-up 720ms cubic-bezier(.2,.7,.2,1) 260ms both}
+.auth-page--premium .auth-art__note{margin:24px 0 0;color:rgba(255,255,255,.78);font:400 10px/1.5 var(--font-body);letter-spacing:.06em;animation:auth-fade-up 700ms cubic-bezier(.2,.7,.2,1) 390ms both}
+.auth-page--premium .auth-form{display:grid;align-self:stretch;place-items:center;max-width:none;padding:clamp(38px,7vw,100px) clamp(32px,8vw,112px);background:linear-gradient(135deg,#faf8f3 0%,#f5f2ec 100%);animation:auth-panel-enter 700ms cubic-bezier(.2,.7,.2,1) 100ms both}
+.auth-page--premium .auth-form__inner{width:min(100%,440px)}
+.auth-page--premium .auth-form__eyebrow{margin:0 0 17px;color:#8b5e3c;font:500 9px/1.5 var(--font-body);letter-spacing:.2em;text-transform:uppercase}
+.auth-page--premium .auth-form h1{margin:0;color:#25221e;font:400 clamp(40px,4.2vw,58px)/1.02 var(--font-display);letter-spacing:0}
+.auth-page--premium .auth-form__intro{max-width:380px;margin:17px 0 31px;color:#706960;font:400 12px/1.8 var(--font-body)}
+.auth-page--premium .auth-form form{display:grid;gap:17px}
+.auth-page--premium .auth-form form>label{display:grid;gap:7px;margin:0;color:#4f4a43;font:500 9px/1.5 var(--font-body);letter-spacing:.035em}
+.auth-page--premium .auth-input{width:100%;min-height:51px;padding:12px 14px;border:1px solid rgba(37,34,30,.17);border-radius:2px;background:rgba(255,255,255,.78);color:#25221e;font:400 12px/1.5 var(--font-body);transition:border-color 220ms ease,box-shadow 220ms ease,background 220ms ease}
+.auth-page--premium .auth-input:hover{border-color:rgba(37,34,30,.34)}
+.auth-page--premium .auth-input:focus{border-color:#8b5e3c;outline:0;background:#fff;box-shadow:0 0 0 3px rgba(139,94,60,.12)}
+.auth-page--premium .auth-password-field{position:relative}
+.auth-page--premium .auth-password-field .auth-input{padding-right:50px}
+.auth-page--premium .auth-password-toggle{position:absolute;top:4px;right:4px;display:grid;width:43px;height:43px;place-items:center;border-radius:2px;color:#706960;transition:background 180ms ease,color 180ms ease}
+.auth-page--premium .auth-password-toggle:hover{background:#f0ede7;color:#25221e}
+.auth-page--premium .auth-submit{display:flex;min-height:52px;align-items:center;justify-content:center;gap:11px;margin-top:5px;border:1px solid #211f1c;border-radius:2px;background:#211f1c;color:#fff;font:500 10px/1.4 var(--font-body);letter-spacing:.1em;text-transform:uppercase;transition:transform 220ms ease,background 220ms ease,border-color 220ms ease,box-shadow 220ms ease}
+.auth-page--premium .auth-submit>svg{transition:transform 220ms ease}
+.auth-page--premium .auth-submit:hover:not(:disabled){transform:translateY(-2px);border-color:#51463b;background:#51463b;box-shadow:0 7px 18px rgba(34,31,27,.13)}
+.auth-page--premium .auth-submit:hover:not(:disabled)>svg{transform:translateX(3px)}
+.auth-page--premium .auth-submit:disabled{opacity:.78;cursor:wait}
+.auth-submit__spinner{width:14px;height:14px;border:1px solid rgba(255,255,255,.4);border-top-color:#fff;border-radius:50%;animation:auth-spin 700ms linear infinite}
+.auth-page--premium .auth-links{display:flex;flex-wrap:wrap;gap:9px 23px;margin-top:22px;font:400 10px/1.6 var(--font-body);text-decoration:none}
+.auth-page--premium .auth-links a{position:relative;padding:3px 0;color:#625b52;text-decoration:none;transition:color 180ms ease,opacity 180ms ease}
+.auth-page--premium .auth-links a:after{position:absolute;right:0;bottom:0;left:0;height:1px;background:#8b5e3c;content:"";transform:scaleX(0);transform-origin:left;transition:transform 220ms cubic-bezier(.2,.7,.2,1)}
+.auth-page--premium .auth-links a:hover{color:#8b5e3c}
+.auth-page--premium .auth-links a:hover:after{transform:scaleX(1)}
+.auth-page--premium .auth-feedback{margin:0;padding:10px 12px;border-radius:2px;font-size:10px;line-height:1.6}
+.auth-page--premium :focus-visible{outline:2px solid #8b5e3c;outline-offset:3px}
+@keyframes auth-image-reveal{from{opacity:.45;clip-path:inset(0 0 7%)}to{opacity:1;clip-path:inset(0)}}
+@keyframes auth-image-drift{from{transform:scale(1)}to{transform:scale(1.055)}}
+@keyframes auth-fade-up{from{opacity:0;transform:translateY(15px)}to{opacity:1;transform:translateY(0)}}
+@keyframes auth-panel-enter{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:translateX(0)}}
+@keyframes auth-spin{to{transform:rotate(360deg)}}
+@media(max-width:900px){.auth-page.auth-page--premium{grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);min-height:clamp(540px,calc(100svh - 128px),760px)}.auth-page--premium .auth-art{min-height:540px;padding:clamp(28px,5vw,54px)}.auth-page--premium .auth-art__title{font-size:clamp(50px,7vw,72px)}.auth-page--premium .auth-form{padding:48px clamp(26px,5vw,60px)}}
+@media(max-width:760px){.auth-page.auth-page--premium{grid-template-columns:minmax(0,1fr);min-height:0}.auth-page--premium .auth-art{min-height:clamp(270px,43svh,390px);padding:30px 26px}.auth-page--premium .auth-art:before{background-position:center 43%}.auth-page--premium .auth-art__label{margin-bottom:11px}.auth-page--premium .auth-art__title{font-size:clamp(49px,11vw,68px)}.auth-page--premium .auth-art__note{margin-top:13px}.auth-page--premium .auth-form{padding:clamp(38px,8vw,60px) 26px 56px}.auth-page--premium .auth-form__inner{max-width:500px}.auth-page--premium .auth-form h1{font-size:clamp(39px,9vw,52px)}.auth-page--premium .auth-form__intro{margin:13px 0 25px}}
+@media(max-width:360px){.auth-page--premium .auth-art{min-height:260px;padding:25px 20px}.auth-page--premium .auth-form{padding-inline:20px}.auth-page--premium .auth-form h1{font-size:39px}.auth-page--premium .auth-links{gap:8px 17px}}
+@media(min-width:761px){
+	.auth-page--premium .auth-form{padding-inline:clamp(28px,6vw,86px)}
+	.auth-page--premium .auth-form__inner{width:min(100%,520px)}
+	.auth-page--premium .auth-form__eyebrow{margin-bottom:20px;font-size:10px}
+	.auth-page--premium .auth-form h1{font-size:clamp(48px,5vw,72px)}
+	.auth-page--premium .auth-form__intro{max-width:440px;margin:21px 0 38px;font-size:13.5px;line-height:1.85}
+	.auth-page--premium .auth-form form{gap:21px}
+	.auth-page--premium .auth-form form>label{gap:9px;font-size:10px}
+	.auth-page--premium .auth-input{min-height:58px;padding:14px 16px;font-size:13px}
+	.auth-page--premium .auth-password-field .auth-input{padding-right:54px}
+	.auth-page--premium .auth-password-toggle{width:46px;height:50px}
+	.auth-page--premium .auth-submit{min-height:59px;margin-top:8px;font-size:11px}
+	.auth-page--premium .auth-links{gap:10px 28px;margin-top:28px;font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){.auth-page--premium .auth-art:before,.auth-page--premium .auth-art__label,.auth-page--premium .auth-art__title,.auth-page--premium .auth-art__note,.auth-page--premium .auth-form{animation:none}.auth-page--premium .auth-submit,.auth-page--premium .auth-submit>svg,.auth-page--premium .auth-input,.auth-page--premium .auth-links a,.auth-page--premium .auth-links a:after{transition:none}.auth-submit__spinner{animation-duration:1400ms}}

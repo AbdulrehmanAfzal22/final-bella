@@ -1,0 +1,4 @@
+export default function ChartCard({title,description,series=[],emptyMessage='Detailed reporting is not available in this view.'}){
+  const max=Math.max(0,...series.map(point=>Number(point.value)||0));
+  return <section className="admin-chart-card"><header><div><h2>{title}</h2>{description&&<p>{description}</p>}</div></header>{series.length?<div className="admin-chart-card__series" role="img" aria-label={`${title}: ${series.map(point=>`${point.label} ${point.display??point.value}`).join(', ')}`}>{series.map((point,index)=><div className="admin-chart-card__row" key={`${point.label}-${index}`}><span>{point.label}</span><div className="admin-chart-card__track"><span style={{'--series-width':`${max?Math.max(point.value/max*100,point.value?3:0):0}%`}}/></div><strong>{point.display??point.value}</strong></div>)}</div>:<p className="admin-chart-card__empty">{emptyMessage}</p>}</section>;
+}
